@@ -32,6 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/MissSiriluck/product-preview-card-component.git](https://github.com/MissSiriluck/product-preview-card-component.git)
+- Live Site URL: [https://misssiriluck.github.io/product-preview-card-component/](https://misssiriluck.github.io/product-preview-card-component/)
 
 ## My process
 
