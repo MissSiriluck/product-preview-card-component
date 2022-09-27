@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://github.com/MissSiriluck/product-preview-card-component.git)
+- Solution URL: [https://github.com/MissSiriluck/product-preview-card-component.git](https://github.com/MissSiriluck/product-preview-card-component.git)
 
 ## My process
 
