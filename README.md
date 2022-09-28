@@ -14,6 +14,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -48,14 +49,24 @@ Users should be able to:
 This is my first practiced project with Frontend Mentor. I'm just start. 
 For this lesson I learned about flexbox and @media screen for managed with frontend and responsive screen for this preview review card.
 
+I had learned a new tag <picture> from this project. This is new for me to use it.
+<picture>
+  <source media="(max-width:605px)" srcset="https://misssiriluck.github.io/product-preview-card-component/images/image-product-mobile.jpg" alt="Gabrielle Essence Eau De Parfum" class="img-desk">
+  <img src="https://misssiriluck.github.io/product-preview-card-component/images/image-product-desktop.jpg" alt="Gabrielle Essence Eau De Parfum" class="img-desk">
+</picture>
+
 ### Continued development
 
 Next step is dev with React/Vue framework, practice to build with scss/Bootstrap 
 
 ### Useful resources
 
-- [Example resource 1](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me finally understand flexbox. I'd recommend it to anyone still learning this concept.
+- [css-tricks-flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - This is an amazing article which helped me finally understand flexbox. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
 - Frontend Mentor - [@Siriluck T.](https://www.frontendmentor.io/profile/MissSiriluck)
+
+## Acknowledgments
+
+❤️ Thank!!! ❤️ [@correlucas](https://www.frontendmentor.io/profile/correlucas)

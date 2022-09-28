@@ -1,0 +1,99 @@
+body {
+    background-color: hsl(30, 38%, 92%);
+}
+
+html, body
+{
+    height: 100%;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 602px;
+    height: 450px;
+    display: flex;
+}
+
+.container-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 30px;
+}
+.container-text-price {
+    display: flex;
+    align-items: center;
+}
+
+.img-desk {
+    border-radius: 10px 0 0 10px;
+    width: 300px;
+}
+
+.side-text {
+    font-family: 'Montserrat', sans-serif;
+    color: hsl(228, 12%, 48%);
+    font-size: 12px;
+}
+
+.header-text-num {
+    font-family: 'Fraunces', serif;
+    color: hsl(212, 21%, 14%);
+    font-size: 28px;
+}
+
+.btn-add-to-card {
+    border: none;
+    border-radius: 5px;
+    margin: 20px 0;
+    padding: 12px 0;
+    background-color: hsl(158, 36%, 37%); 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+button:hover {
+    background-color: hsl(156, 42%, 18%); 
+    cursor: pointer;
+}
+
+@media screen and (max-width: 605px){
+    .card {
+    display: flex;
+    width: 344px;
+    display: flex;
+    flex-direction: column;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    height: fit-content;
+    }
+
+    .img-desk {
+    border-radius: 10px 10px 0 0;
+    width: 344px;
+    }
+
+    .container-text {
+        padding: 0 30px;
+    }
+}
