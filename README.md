@@ -49,7 +49,11 @@ Users should be able to:
 This is my first practiced project with Frontend Mentor. I'm just start. 
 For this lesson I learned about flexbox and @media screen for managed with frontend and responsive screen for this preview review card.
 
-I had learned a new tag <picture> from this project. This is new for me to use it.
+I had learned a new tag HTML as below.
+```html 
+<picture>
+``` 
+This is new for me to use it.
 ```html
 <picture>
   <source media="(max-width:605px)" srcset="https://misssiriluck.github.io/product-preview-card-component/images/image-product-mobile.jpg" alt="Gabrielle Essence Eau De Parfum" class="img-desk">
