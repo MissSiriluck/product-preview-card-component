@@ -56,8 +56,8 @@ I had learned a new tag HTML as below.
 This is new for me to use it.
 ```html
 <picture>
-  <source media="(max-width:605px)" srcset="https://misssiriluck.github.io/product-preview-card-component/images/image-product-mobile.jpg" alt="Gabrielle Essence Eau De Parfum" class="img-desk">
-  <img src="https://misssiriluck.github.io/product-preview-card-component/images/image-product-desktop.jpg" alt="Gabrielle Essence Eau De Parfum" class="img-desk">
+  <source media="(max-width:)" srcset="">
+  <img src="" alt="" class="">
 </picture>
 ```
 
