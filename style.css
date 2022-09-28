@@ -49,7 +49,7 @@ html, body
     width: 300px;
 }
 
-.side-text {
+.side-text, h1 {
     font-family: 'Montserrat', sans-serif;
     color: hsl(228, 12%, 48%);
     font-size: 12px;
